@@ -1,7 +1,7 @@
 <template>
 <div class="container">
    <div class="textos"> <h1>Sobre a loja</h1>
-    <p>A empresa Ceará calçados, fundada por Francisco das Chagas, começou com um pequeno centro comercial em 2004,
+    <p>A empresa Ceará, fundada por Francisco das Chagas, começou com um pequeno centro comercial em 2004,
          sob venda de cintos, carteiras e relógios. Em certo ponto de seu desenvolvimento, houve um engrandecimento,
          passando a vender rasteiras, passando a ter um lucro maior para o aprimoramento de seus negócios comercializados,
          o que abriu portas para iniciar sua trajetória de conquistas. No ano de 2007, sua empresa foi aberta com sede em
