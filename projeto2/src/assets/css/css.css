@@ -1,0 +1,31 @@
+html,
+body,
+#app {
+  height: 100%;
+}
+
+body {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #f2f2f2;
+}
+
+#app {
+  display: flex;
+  flex-flow: column;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 1em;
+  gap: 1em;
+  background: #a2a2a2;
+}
+
+main {
+  flex: 1;
+  text-align: center;
+  padding: 2em 1em;
+}
